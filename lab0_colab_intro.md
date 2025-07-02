@@ -660,14 +660,13 @@ In the upcoming labs, you'll use these Colab skills to:
 
 ---
 
-## Assignment Submission
+## Assignment (if you want to save your work)
 
 1. **Save your notebook** with the name "Lab0_YourLastName_Colab_Introduction"
 2. **Share the notebook** with view access
 3. **Submit the sharing link** through the course management system
 4. **Include a brief reflection** (2-3 sentences) on what you found most useful about Google Colab
 
-**Due Date:** [Insert due date]
 
 ---
 

@@ -215,14 +215,14 @@ Use `!` to run system commands:
 
 ```mermaid
 graph TD
-    A[Colab File System] --> B[/content]
+    A[Colab File System] --> B["/content"]
     B --> C[Your uploaded files]
-    B --> D[sample_data/]
-    A --> E[/content/drive]
+    B --> D["sample_data/"]
+    A --> E["/content/drive"]
     E --> F[Google Drive files when mounted]
     
-    G[Local Computer] --> H[Upload to /content]
-    I[Google Drive] --> J[Mount to /content/drive]
+    G[Local Computer] --> H["Upload to /content"]
+    I[Google Drive] --> J["Mount to /content/drive"]
 ```
 
 ### 6.2 Uploading Files
@@ -660,13 +660,15 @@ In the upcoming labs, you'll use these Colab skills to:
 
 ---
 
-## Assignment (if you want to keep your work)
+## Assignment Submission
 
 1. **Save your notebook** with the name "Lab0_YourLastName_Colab_Introduction"
 2. **Share the notebook** with view access
 3. **Submit the sharing link** through the course management system
 4. **Include a brief reflection** (2-3 sentences) on what you found most useful about Google Colab
 
+**Due Date:** [Insert due date]
 
 ---
 
+*Happy coding in the cloud! 🚀*
